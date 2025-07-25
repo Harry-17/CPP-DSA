@@ -73,3 +73,6 @@ This project is for educational purposes only. Feel free to use or modify the co
 ## 🙋‍♂️ Author
 
 [Harry-17](https://github.com/Harry-17)
+
+This is a demo for earning the Pull Shark badge.
+
